@@ -388,6 +388,6 @@ type Product = {
       title: "Cheesy Pizzas",
       desc: "Pizza Paradise: Irresistible slices, mouthwatering toppings, and cheesy perfection.",
       img: "/temporary/m3.png",
-      color: "white",
+      color: " ",
     },
   ];

@@ -5,7 +5,7 @@ import React from 'react'
 function CartIcon() {
   return (
     <Link href="/cart" className='flex items-center gap-4'>
-        <div className='relative h-8 w-8 md:w-5 h-5'>
+        <div className='relative h-8 w-8 md:w-5 md:h-5'>
             <Image src="/cart.png" alt="cart" fill/>
         </div>
         <span>Cart 3</span>
